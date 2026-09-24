@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi,👋 i'm Afifa Kainat
 
-<!--
-**AfifaKainat0/AfifaKainat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I’m Afifa Qainat
 
-Here are some ideas to get you started:
+🎓 Cyber Security Student
+🛡️ Cybersecurity Learner
+💻 Python , Linux , Networking 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 About Me
+
+I’m a cyber Security student interested in Hacking.
+I’m currently building my skills through hands-on projects, labs, and continuous learning.
+
+🚀 Currently Learning
+
+* 🐍 Python
+* 🐧 Linux
+* 🌐 Networking
+* 🔐 Cybersecurity Fundamentals
+* 🌎 Web Development
+* 🧩 Data Structures & Algorithms
+
+🛠️ Tools & Technologies
+
+* Git & GitHub
+* Python
+* Linux
+* VirtualBox
+* Networking Tools
+
+📚 What You’ll Find Here
+
+* 💻 Programming projects
+* 🔐 Cybersecurity labs and notes
+* 🐧 Linux practice
+* 🌐 Networking exercises
+* 📖 Learning resources and documentation
+
+🎯 My Goal
+
+To continuously improve my technical skills , become a ethical hacker and build practical projects in cybersecurity.
+
+⭐ Thanks for visiting my profile.
